@@ -4,10 +4,10 @@ const About = () => {
     <div className="container-fluid">
       <div className="row py-4">
         <h2 className="text-center lg-font-title pb-4 small-caps">Our Story</h2>
-        <div className="col-sm-12 col-sm-offset-0 col-md-5 col-md-offset-1  ">
+        <div className="col-sm-12 offset-sm-0 col-md-5 offset-md-1  ">
           <img src={Hanna} alt="Hanna" className="img-fluid" />
         </div>
-        <div className="col-sm-12 col-sm-offset-0 col-md-5 col-md-offset-1 ">
+        <div className="col-sm-12 offset-sm-0 col-md-5  ">
           <p className="pb-2 mt-small-2">
             <strong>Regeneration Acres</strong> is a relatively new farm as the
             newlyweds, who tied the knot earlier this year, originally purchased
