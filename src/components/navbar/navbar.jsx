@@ -1,4 +1,4 @@
-import React from "react";
+import Logo from "../../assets/RegenAcres.png";
 
 const Navbar = () => {
   return (

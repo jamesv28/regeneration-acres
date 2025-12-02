@@ -64,3 +64,11 @@ p {
     height: 18rem;
   }
 }
+
+/* landing page filler info */
+.motto {
+  height: 250px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
