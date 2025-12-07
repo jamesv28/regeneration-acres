@@ -2,7 +2,7 @@ import Logo from "../../assets/RegenAcres.png";
 
 const Navbar = () => {
   return (
-    <nav className="navbar navbar-expand-lg navbar-light bg-light">
+    <nav className="navbar navbar-expand-lg ">
       <div className="container-fluid">
         <a className="navbar-brand small-caps" href="#">
           Regeneration Acres
@@ -22,7 +22,17 @@ const Navbar = () => {
           <ul className="navbar-nav ms-auto mb-2 mb-lg-0">
             <li className="nav-item">
               <a className="nav-link active" aria-current="page" href="#">
-                Home
+                Events
+              </a>
+            </li>
+            <li className="nav-item">
+              <a className="nav-link active" aria-current="page" href="#">
+                Products
+              </a>
+            </li>
+            <li className="nav-item">
+              <a className="nav-link active" aria-current="page" href="#">
+                Contact
               </a>
             </li>
           </ul>
